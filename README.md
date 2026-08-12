@@ -1,11 +1,11 @@
-#=====================
-# Forecasting-Analysis
-#=====================
 
-##### Project Overview #####
+# Forecasting-Analysis
+
+
+#==== Project Overview =====#
 This repository contains an example of business forecasts with a custom data set. 
 
-##### Goal #####
+#==== Goal =====#
 Forecast future revenue and compare forecasting approaches
 
 What the project does
@@ -14,7 +14,7 @@ How users can get started with the project
 Where users can get help with your project
 Who maintains and contributes to the project
 
-##### Methods #####
+#==== Methods =====#
 • Exploratory time-series analysis
 • Regression with weather variables
 • ARIMA
@@ -22,5 +22,5 @@ Who maintains and contributes to the project
 • RMSE / MAE
 • Forecast combinations
 
-##### Tools #####
+#==== Tools =====#
 Python, pandas, statsmodels, pmdarima, matplotlib
