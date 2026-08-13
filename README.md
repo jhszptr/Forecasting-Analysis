@@ -3,7 +3,7 @@
 
 
 ## Project Overview 
-This repository contains an example of business forecasts with a custom data set. 
+This repository contains an example of business forecasts with a custom dataset. 
 
 ## Goal
 Forecast future revenue and compare forecasting approaches
