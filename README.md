@@ -3,12 +3,12 @@
 
 
 ## Project Overview 
-This repository contains an example of business forecasts with a custom dataset. 
+- This repository contains an example of business forecasts with a custom dataset. 
 
 
 
 ## Goal
-Forecast future revenue and compare forecasting approaches
+- Forecast future revenue and compare forecasting approaches
 
 
 
@@ -23,4 +23,4 @@ Forecast future revenue and compare forecasting approaches
 
 
 ##Tools
-Python, pandas, statsmodels, pmdarima, matplotlib
+- Python, pandas, statsmodels, pmdarima, matplotlib
