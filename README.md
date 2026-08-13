@@ -13,14 +13,14 @@
 
 
 ## Methods
-• Exploratory time-series analysis
-• Regression with weather variables
-• ARIMA
-• Pseudo-out-of-sample validation
-• RMSE / MAE
-• Forecast combinations
+- Exploratory time-series analysis
+- Regression with weather variables
+- ARIMA
+- Pseudo-out-of-sample validation
+- RMSE / MAE
+- Forecast combinations
 
 
 
-##Tools
+## Tools
 - Python, pandas, statsmodels, pmdarima, matplotlib
